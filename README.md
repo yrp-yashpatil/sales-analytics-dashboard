@@ -1,5 +1,6 @@
 # sales-analytics-dashboard
 
+![Figure 1, Sales Dashboard](sales_dashboard_excel.png)
 
 ---
 
